@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hailey Welsh</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Hailey Welsh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Aug 2025 12:05:48 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identity</title>
+      <link>//localhost:1313/tags/identity/</link>
+      <pubDate>Sat, 23 Aug 2025 12:05:48 +0100</pubDate>
+      <guid>//localhost:1313/tags/identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>//localhost:1313/tags/personal/</link>
+      <pubDate>Sat, 23 Aug 2025 12:05:48 +0100</pubDate>
+      <guid>//localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reality</title>
+      <link>//localhost:1313/tags/reality/</link>
+      <pubDate>Sat, 23 Aug 2025 12:05:48 +0100</pubDate>
+      <guid>//localhost:1313/tags/reality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transition</title>
+      <link>//localhost:1313/tags/transition/</link>
+      <pubDate>Sat, 23 Aug 2025 12:05:48 +0100</pubDate>
+      <guid>//localhost:1313/tags/transition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ipcs</title>
+      <link>//localhost:1313/tags/ipcs/</link>
+      <pubDate>Sat, 23 Aug 2025 09:34:21 +0100</pubDate>
+      <guid>//localhost:1313/tags/ipcs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lore</title>
+      <link>//localhost:1313/tags/lore/</link>
+      <pubDate>Sat, 23 Aug 2025 09:34:21 +0100</pubDate>
+      <guid>//localhost:1313/tags/lore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organisations</title>
+      <link>//localhost:1313/tags/organisations/</link>
+      <pubDate>Sat, 23 Aug 2025 09:34:21 +0100</pubDate>
+      <guid>//localhost:1313/tags/organisations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Voidheart</title>
+      <link>//localhost:1313/tags/voidheart/</link>
+      <pubDate>Sat, 23 Aug 2025 09:34:21 +0100</pubDate>
+      <guid>//localhost:1313/tags/voidheart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dprt</title>
+      <link>//localhost:1313/tags/dprt/</link>
+      <pubDate>Sat, 23 Aug 2025 08:55:07 +0100</pubDate>
+      <guid>//localhost:1313/tags/dprt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entries</title>
+      <link>//localhost:1313/tags/entries/</link>
+      <pubDate>Sat, 23 Aug 2025 08:55:07 +0100</pubDate>
+      <guid>//localhost:1313/tags/entries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Precursors</title>
+      <link>//localhost:1313/tags/precursors/</link>
+      <pubDate>Sat, 23 Aug 2025 08:55:07 +0100</pubDate>
+      <guid>//localhost:1313/tags/precursors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dev</title>
+      <link>//localhost:1313/tags/dev/</link>
+      <pubDate>Sat, 23 Aug 2025 08:04:11 +0100</pubDate>
+      <guid>//localhost:1313/tags/dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/tags/projects/</link>
+      <pubDate>Sat, 23 Aug 2025 08:04:11 +0100</pubDate>
+      <guid>//localhost:1313/tags/projects/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

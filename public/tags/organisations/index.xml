@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organisations on Hailey Welsh</title>
+    <link>//localhost:1313/tags/organisations/</link>
+    <description>Recent content in Organisations on Hailey Welsh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Aug 2025 09:34:21 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/organisations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPCS</title>
+      <link>//localhost:1313/posts/worldbuilding/void-heart/ipcs/</link>
+      <pubDate>Sat, 23 Aug 2025 09:34:21 +0100</pubDate>
+      <guid>//localhost:1313/posts/worldbuilding/void-heart/ipcs/</guid>
+      <description>&lt;p&gt;IPCS (Interstellar Precursor Communication Specialists) is a non-profit organization devoted to discovering and decoding any and all forms of communication from the Precursor Race, and other extra-universal actors.&lt;/p&gt;&#xA;&lt;p&gt;They are entirely made up of volunteers, who have a genuine fascination in these communications.&lt;/p&gt;&#xA;&lt;h1 id=&#34;publications-format&#34;&gt;Publications Format&lt;/h1&gt;&#xA;&lt;p&gt;All IPCS published communications are wrapped in a header and a footer, the header will usually look something like this:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;OFFICIAL IPCS COMMUNICATION, READER WARNED, POTENTIALLY DISTRESSING MATERIAL&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

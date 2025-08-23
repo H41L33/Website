@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hailey Welsh</title>
+    <link>//localhost:1313/tags/projects/</link>
+    <description>Recent content in Projects on Hailey Welsh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Aug 2025 08:04:11 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💻 Hello, Hugo !! 👋</title>
+      <link>//localhost:1313/posts/blog/new-site/</link>
+      <pubDate>Sat, 23 Aug 2025 08:04:11 +0100</pubDate>
+      <guid>//localhost:1313/posts/blog/new-site/</guid>
+      <description>&lt;h1 id=&#34;so-shiny-&#34;&gt;So Shiny !!&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my flash new site, that I&amp;rsquo;ll be publishing any of my work on.&lt;/p&gt;&#xA;&lt;p&gt;This site is powered by Hugo, using the Terminal &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;theme&lt;/a&gt; by &lt;a href=&#34;https://github.com/panr&#34;&gt;panr&lt;/a&gt;. I make any edits in Obisidian, and Github hosts them with Github Pages.&lt;/p&gt;&#xA;&lt;p&gt;Some examples of what I&amp;rsquo;ll post here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;World-Building Entries&lt;/li&gt;&#xA;&lt;li&gt;Short Stories&lt;/li&gt;&#xA;&lt;li&gt;Personal Blog&lt;/li&gt;&#xA;&lt;li&gt;Random Thoughts&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
