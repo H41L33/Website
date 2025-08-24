@@ -10,8 +10,7 @@ hideComments = false
 
 
 # Who am I?
-I'm a student studying game design and creative writing, aiming for a potential career in
-vide game narrative design.
+I'm a student studying game design and creative writing, aiming for a potential career in video game narrative design.
 
 This combines my talent in both of these fields, as from a very young age I've shown interest
 in computer programming and software, but I've also always been rather creative and have a
