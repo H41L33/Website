@@ -1,5 +1,5 @@
 +++
-title = "HRT Begins"
+title = "🧬 HRT Begins 🛠️"
 date = "2025-08-24T18:46:25+01:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Hailey Welsh"
