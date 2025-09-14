@@ -2,72 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/posts/blog/patch-notes-%23002/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/tags/patch-notes/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/tags/reality/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/tags/short/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-09-02T07:23:04+01:00</lastmod>
+  </url><url>
+    <loc>/posts/blog/patch-notes-%23001/</loc>
+    <lastmod>2025-08-26T12:39:18+01:00</lastmod>
+  </url><url>
+    <loc>/tags/hrt/</loc>
+    <lastmod>2025-08-24T18:46:25+01:00</lastmod>
+  </url><url>
+    <loc>/tags/identity/</loc>
+    <lastmod>2025-08-24T18:46:25+01:00</lastmod>
+  </url><url>
+    <loc>/tags/transition/</loc>
+    <lastmod>2025-08-24T18:46:25+01:00</lastmod>
+  </url><url>
+    <loc>/posts/blog/hrt-begins/</loc>
+    <lastmod>2025-08-24T18:46:25+01:00</lastmod>
+  </url><url>
+    <loc>/posts/blog/cracked-egg/</loc>
     <lastmod>2025-08-23T12:05:48+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/identity/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/personal/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/reality/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/transition/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/blog/cracked-egg/</loc>
-    <lastmod>2025-08-23T12:05:48+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/ipcs/</loc>
+    <loc>/tags/ipcs/</loc>
     <lastmod>2025-08-23T09:34:21+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/worldbuilding/void-heart/ipcs/</loc>
+    <loc>/posts/worldbuilding/void-heart/ipcs/</loc>
     <lastmod>2025-08-23T09:34:21+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/lore/</loc>
+    <loc>/tags/lore/</loc>
     <lastmod>2025-08-23T09:34:21+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/organisations/</loc>
+    <loc>/tags/organisations/</loc>
     <lastmod>2025-08-23T09:34:21+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/voidheart/</loc>
+    <loc>/tags/voidheart/</loc>
     <lastmod>2025-08-23T09:34:21+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/dprt/</loc>
+    <loc>/tags/dprt/</loc>
     <lastmod>2025-08-23T08:55:07+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/worldbuilding/void-heart/dprt-01/</loc>
+    <loc>/posts/worldbuilding/void-heart/dprt-01/</loc>
     <lastmod>2025-08-23T08:55:07+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/entries/</loc>
+    <loc>/tags/entries/</loc>
     <lastmod>2025-08-23T08:55:07+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/precursors/</loc>
+    <loc>/tags/precursors/</loc>
     <lastmod>2025-08-23T08:55:07+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2025-08-23T08:51:43+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-08-23T08:50:56+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/blog/new-site/</loc>
+    <loc>/posts/blog/new-site/</loc>
     <lastmod>2025-08-23T08:04:11+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/dev/</loc>
+    <loc>/tags/dev/</loc>
     <lastmod>2025-08-23T08:04:11+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/projects/</loc>
+    <loc>/tags/projects/</loc>
     <lastmod>2025-08-23T08:04:11+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
